@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RestaurantSearch</string>
+    <string name="search_restaurant_menu">Search your favourite restaurant, menu,cuisine types..</string>
+</resources>
